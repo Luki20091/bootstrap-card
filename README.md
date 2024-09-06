@@ -1,2 +1,2 @@
-# Zadanie 3 - Bootsrap
+# Zadanie 3 - Bootstrap
 - Programowanie aplikacji zaawansowanych webowych
